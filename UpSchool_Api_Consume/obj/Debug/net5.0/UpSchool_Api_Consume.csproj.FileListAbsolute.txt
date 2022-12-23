@@ -115,3 +115,4 @@ C:\Users\User\Desktop\UpSchoolBootcamp\UpSchool_Api_Consume\UpSchool_Api_Consume
 C:\Users\User\Desktop\UpSchoolBootcamp\UpSchool_Api_Consume\UpSchool_Api_Consume\obj\Debug\net5.0\ref\UpSchool_Api_Consume.dll
 C:\Users\User\Desktop\UpSchoolBootcamp\UpSchool_Api_Consume\UpSchool_Api_Consume\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
 C:\Users\User\Desktop\UpSchoolBootcamp\UpSchool_Api_Consume\UpSchool_Api_Consume\obj\Debug\net5.0\Razor\Views\Default\AddCategory.cshtml.g.cs
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchool_Api_Consume\UpSchool_Api_Consume\obj\Debug\net5.0\Razor\Views\Default\UpdateCategory.cshtml.g.cs
