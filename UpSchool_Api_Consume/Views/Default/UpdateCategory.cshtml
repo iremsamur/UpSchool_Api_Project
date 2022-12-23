@@ -1,0 +1,19 @@
+﻿@model CategoryViewModel
+@{
+    Layout = null;
+}
+
+<form method="post">
+    <div class="container">
+        <input type="hidden" asp-for="CategoryID" class="form-control" />
+        <label>Kategori Adı</label>
+        <input type="text" asp-for="CategoryName"  class="form-control"/>
+        <br />
+        <label>Kategori Açıklaması</label>
+        <input type="text" asp-for="Description" class="form-control" />
+        <br />
+        <button class="btn btn-outline-success">Bilgileri Güncelle</button>
+
+    </div>
+
+</form>
